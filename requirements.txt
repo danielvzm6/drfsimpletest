@@ -1,3 +1,9 @@
+asgiref==3.8.1
+blinker==1.8.2
+Brotli==1.1.0
+click==8.1.7
+colorama==0.4.6
+crispy-bootstrap5 @ git+https://github.com/django-crispy-forms/crispy-bootstrap5.git@bb9021ee095c2e99cb8dcd63ac80b4477e89b9d4
 distlib==0.3.9
 dj-database-url==2.3.0
 Django==5.1.1
